@@ -5,6 +5,9 @@
 # HTML title tag content
 title = "popcorn_night"
 
+# Repository name
+base_path = "popcorn-night"
+
 # include `assets` in web platform
 [web.resource]
 
